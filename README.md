@@ -1,4 +1,4 @@
-<h1 align="center">🚀 CloudWise - Agência </h1>
+<h1 align="center">🚀 Cloud Wise - Agência </h1>
 
 <p align="center">
   <img src="https://github.com/crismoraiss/cloudwise/blob/master/homecw.png?raw=true" alt="CloudWise Layout" width="800">
@@ -6,7 +6,7 @@
 
 ## 📌 Desenvolvimento 
 
-O site da CloudWise foi desenvolvido para destacar a agência e seus serviços de forma eficiente e profissional. O layout segue um conceito clean e responsivo, garantindo uma navegação fluida. A estrutura prioriza a clareza das informações e a identidade visual da empresa, proporcionando uma experiência intuitiva aos usuários. 
+O site da **Cloud Wise** foi desenvolvido para destacar a agência e seus serviços de forma eficiente e profissional. O layout segue um conceito clean e responsivo, garantindo uma navegação fluida. A estrutura prioriza a clareza das informações e a identidade visual da empresa, proporcionando uma experiência intuitiva aos usuários. 
 
 ## ✨ Funcionalidades  
 <ul>
