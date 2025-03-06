@@ -17,7 +17,3 @@ O site da **Cloud Wise** foi desenvolvido para destacar a agência e seus servi�
   <li><strong>📊 Blog e Conteúdos:</strong> Área dedicada a artigos e insights sobre tecnologia e presença digital.</li><br>
   <li><strong>✉️ Formulário de Contato:</strong> Integração com envio de e-mail para facilitar a comunicação com os clientes.</li><br>
 </ul>
-
-
-<h2>🖥️ Desenvolvimento</h2>
-<p>Desenvolvido utilizando tecnologias modernas para front-end e back-end, garantindo uma experiência otimizada para clientes e administradores</p>
